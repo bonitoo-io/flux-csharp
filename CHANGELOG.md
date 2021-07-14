@@ -1,7 +1,7 @@
 ## 2.1.0 [unreleased]
 
 ### Bug Fixes
-1. [#221](https://github.com/influxdata/influxdb-client-csharp/pull/221): Parsing Infinite numbers into `Double`
+1. [#221](https://github.com/influxdata/influxdb-client-csharp/pull/221): Parsing infinite numbers
 
 ## 2.0.0 [2021-07-09]
 
